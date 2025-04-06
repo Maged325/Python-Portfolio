@@ -1,6 +1,6 @@
 ## NumPy Mini Projects
 
-### The `NumPy_Mini_Projects.ipynb` notebook contains a set of short problem statements using NumPy followed by a concise solution (4-8 lines of code).
+### The `(NumPy_Mini_Projects.ipynb)` notebook contains a set of short problem statements using NumPy followed by a concise solution (4-8 lines of code).
 
 ### Topics Covered:
 - Array creation and manipulation
