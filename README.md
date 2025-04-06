@@ -14,5 +14,5 @@ This repository contains  projects focused on data analysis and visualization us
 
 These projects are aimed at building and sharpening data analysis skills with a practical approach.
 
-### View my [Matplotlib Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Matplotlib) Projects.
-### View my [Seaborn Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Seaborn) Projects.
+### View my [Matplotlib Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Matplotlib).
+### View my [Seaborn Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Seaborn).
