@@ -1,5 +1,6 @@
-#📊 **Seaborn Data Visualization Project**
-##📌**Overview**
+# **📊Seaborn Data Visualization Project**
+
+## **📌Overview**
 This project showcases various data visualizations created using Seaborn, a Python data visualization library built on top of Matplotlib. It uses built-in Seaborn datasets like iris, tips, flights, and titanic to demonstrate different types of plots, including advanced statistical visualizations.
 
 ##📈 **Visualizations Included**
