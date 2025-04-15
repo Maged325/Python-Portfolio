@@ -21,7 +21,6 @@
 - Array creation and manipulation
 - Basic mathematical operations
 - Indexing and slicing
-- Broadcasting
 - Logical Operations
 
 ## **📄 View the Notebook**
