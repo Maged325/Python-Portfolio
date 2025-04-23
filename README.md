@@ -16,3 +16,4 @@ These projects are aimed at building and sharpening data analysis skills with a 
 
 ### View my [Matplotlib Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Matplotlib).
 ### View my [Seaborn Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Seaborn).
+### View my [NumPy Projects](https://github.com/Maged325/Python-Portfolio/tree/main/NumPy).
