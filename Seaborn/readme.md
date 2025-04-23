@@ -23,4 +23,4 @@ This project showcases various data visualizations created using Seaborn, a Pyth
 ## **📄View the Notebook**
 To explore the code and visualizations, check out the [**Seaborn_Visualizations.ipynb**](https://github.com/Maged325/Python-Portfolio/blob/main/Seaborn/Seaborn.ipynb) file included in this repository.
 
-You can also view the [**HTML (Notebook Export)**](https://github.com/Maged325/Python-Portfolio/blob/main/Seaborn/Seaborn.ipynb) version for a clean, interactive look without running the code.
+You can also view the [**HTML (Notebook Export)**]([https://github.com/Maged325/Python-Portfolio/blob/main/Seaborn/Seaborn.ipynb](https://github.com/Maged325/Python-Portfolio/blob/main/Seaborn/Seaborn.html)) version for a clean, interactive look without running the code.
