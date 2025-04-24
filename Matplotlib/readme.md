@@ -39,6 +39,6 @@ This project is designed for:
 Clone the repo and open the Jupyter Notebook to explore the plots:
 
 ## 📄 **View the Notebook**
-To explore the code and visualizations, check out the [**Matplotlib_Visualizations.ipynb**](https://github.com/Maged325/Python-Portfolio/blob/main/Matplotlib/Types%20of%20Charts.ipynb) file included in this repository.
+To explore the code and visualizations, check out the [**Matplotlib_Visualizations.ipynb**](https://github.com/Maged325/Python-Portfolio/blob/main/Matplotlib/Matplotlib_Visualizations.ipynb) file included in this repository.
 
-You can also view the [**HTML (Notebook Export**)](https://github.com/Maged325/Python-Portfolio/blob/main/Matplotlib/Types%20of%20Charts.html) version for a clean, interactive look without running the code.
+You can also view the [**HTML (Notebook Export**)](https://github.com/Maged325/Python-Portfolio/blob/main/Matplotlib/Matplotlib_Visualizations.html) version for a clean, interactive look without running the code.
