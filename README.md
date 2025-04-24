@@ -15,7 +15,7 @@
 ### 🌐 **BeautifulSoup** – for web scraping and extracting structured data from HTML/XML
 
 ## 🎯 **Goal of This Repository**
-#### This repo is designed to build and sharpen practical data analysis skills by working with real data and applying core Python libraries.
+### This repo is designed to build and sharpen practical data analysis skills by working with real data and applying core Python libraries.
 
 ## 📁 **Project Highlights**
 ### 📈 Matplotlib Projects – Learn data visualization through custom plots and charts
@@ -26,7 +26,7 @@
 
 ### 🐍 Python Basics Practice – Strengthen foundational Python skills through exercises
 
-### **Feel free to explore the projects, clone the repo, and dive into the code!**
+## **Feel free to explore the projects, clone the repo, and dive into the code!**
 
 ### View my [Matplotlib Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Matplotlib).
 ### View my [Seaborn Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Seaborn).
