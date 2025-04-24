@@ -17,14 +17,14 @@
 
 - Essential functionality for data preprocessing, feature engineering, and model preparation
   
-### Topics Covered:
+### **Topics Covered:**
 - Array creation and manipulation
 - Basic mathematical operations
 - Indexing and slicing
 - Logical Operations
 
-## **📄 View the Notebook**
-- To explore the code examples and operations, check out the **NumPy_Mini_Projects.ipynb** file included in this repository.
+## 📄 **View the Notebook**
+- To explore the code examples and operations, check out the [**NumPy_Mini_Projects.ipynb**](https://github.com/Maged325/Python-Portfolio/blob/main/NumPy/NumPy-Mini-Projects.ipynb) file included in this repository.
 
-- You can also view the **HTML (Notebook Export)** version for a clean, interactive look without running the code.
+- You can also view the **[HTML (Notebook Export)](https://github.com/Maged325/Python-Portfolio/blob/main/NumPy/NumPy-Mini-Projects.html)** version for a clean, interactive look without running the code.
 
