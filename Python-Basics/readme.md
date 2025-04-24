@@ -8,7 +8,7 @@
 -  dictionaries and basic data structures
 -  handling files
 
-📄**View the Notebook**
+##📄**View the Notebook**
 To explore the code, check out the [**Python_Basics.ipynb**](https://github.com/Maged325/Python-Portfolio/blob/main/Python-Basics/Python_Basics.ipynb) file included in this repository.
 
 You can also view the [**HTML (Notebook Export)**](https://github.com/Maged325/Python-Portfolio/blob/main/Python-Basics/Python_Basics.html) version for a clean, interactive look without running the code.
