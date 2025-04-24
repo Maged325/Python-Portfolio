@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 24, 2025, 04_45_37 PM](https://github.com/user-attachments/assets/8f5dbd51-8cb1-4be6-8172-930de0a3993d)
+![ChatGPT Image Apr 24, 2025, 04_45_37 PM](https://github.com/user-attachments/assets/9989b8b4-d07a-4858-ba86-c5d440db5033)
 
 # 🐍 **Python Data Analysis Projects**
 Welcome to my Python Projects Repository — a collection of hands-on projects focused on data analysis, visualization, and web scraping using essential Python libraries.
