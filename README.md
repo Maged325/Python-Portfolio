@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 24, 2025, 04_45_37 PM](https://github.com/user-attachments/assets/eeb72d12-9f58-4e4e-8f30-d5ec6b04b08b)
+![ChatGPT Image Apr 24, 2025, 04_45_37 PM](https://github.com/user-attachments/assets/8f5dbd51-8cb1-4be6-8172-930de0a3993d)
 
 # 🐍 **Python Data Analysis Projects**
 Welcome to my Python Projects Repository — a collection of hands-on projects focused on data analysis, visualization, and web scraping using essential Python libraries.
@@ -15,18 +15,18 @@ Welcome to my Python Projects Repository — a collection of hands-on projects f
 ### 🌐 **BeautifulSoup** – for web scraping and extracting structured data from HTML/XML
 
 ## 🎯 **Goal of This Repository**
-This repo is designed to build and sharpen practical data analysis skills by working with real data and applying core Python libraries.
+#### This repo is designed to build and sharpen practical data analysis skills by working with real data and applying core Python libraries.
 
 ## 📁 **Project Highlights**
-📈 Matplotlib Projects – Learn data visualization through custom plots and charts
+### 📈 Matplotlib Projects – Learn data visualization through custom plots and charts
 
-📊 Seaborn Projects – Explore statistical visualization with real-world datasets
+### 📊 Seaborn Projects – Explore statistical visualization with real-world datasets
 
-🔢 NumPy Projects – Master numerical operations and data transformations
+### 🔢 NumPy Projects – Master numerical operations and data transformations
 
-🐍 Python Basics Practice – Strengthen foundational Python skills through exercises
+### 🐍 Python Basics Practice – Strengthen foundational Python skills through exercises
 
-Feel free to explore the projects, clone the repo, and dive into the code!
+### **Feel free to explore the projects, clone the repo, and dive into the code!**
 
 ### View my [Matplotlib Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Matplotlib).
 ### View my [Seaborn Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Seaborn).
