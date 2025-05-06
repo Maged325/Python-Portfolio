@@ -1,7 +1,11 @@
 # 🐼 **Pandas Data Analysis & Cleaning Notebook**
-### This notebook showcases my understanding of **Pandas**, a core data manipulation library in Python. It includes examples of loading, inspecting, cleaning, transforming, and exporting datasets using practical, real-world techniques.
 
-## 📂**Contents**
+This notebook showcases my understanding of **Pandas**, a core data manipulation library in Python. It includes practical examples of loading, inspecting, cleaning, transforming, and exporting datasets using real-world techniques.
+
+---
+
+## 📂 **Contents**
+
 - What is a DataFrame?
 - Pandas Series and DataFrames
 - Loading data
@@ -14,22 +18,34 @@
 - Filtering and sorting data
 - Saving to new files
 
+---
+
 ## 🛠️ **Technologies**
-- Python 3.x
-- Pandas
-- Jupyter Notebook
 
-## 🚀 How to Run
+- Python 3.x  
+- Pandas  
+- Jupyter Notebook  
+
+---
+
+## 🚀 **How to Run**
+
 1. Clone this repository.
-2. Open the notebook in Jupyter or VSCode.
-3. Run all cells.
-   
-## 📄 **View the Notebook**
-To explore the code examples and operations, check out the [**Pandas_EDA**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/pandas-eda-cleaning.ipynb) file included in this repository.
+2. Open the notebook in **Jupyter Notebook**, **JupyterLab**, or **VSCode**.
+3. Run all cells to follow along with the analysis.
 
-### You can also view:
-- the [**HTML Notebook Export**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/pandas-eda-cleaning.html) for a clean, interactive look
-- the [**Cleaned Excel Dataset**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/Customer%20Call%20List.csv) for the final output of the data pipeline
+---
+
+## 📄 **View the Notebook**
+
+To explore the code examples and operations, check out the [**Pandas_EDA Notebook**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/pandas-eda-cleaning.ipynb).
+
+You can also view:
+- [**HTML Export**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/pandas-eda-cleaning.html) – for a rendered view without execution
+- [**Cleaned Excel Dataset**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/cleaned_dataset.xlsx) – the final output after cleaning and transformations
+
+---
 
 ## 📬 Contact
+
 For collaborations or questions, feel free to reach out!
