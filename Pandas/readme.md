@@ -1,6 +1,6 @@
 # 🐼 **Pandas Data Analysis & Cleaning Notebook**
 
-This notebook showcases my understanding of **Pandas**, a core data manipulation library in Python. It includes practical examples of loading, inspecting, cleaning, transforming, and exporting datasets using real-world techniques.
+### This notebook showcases my understanding of **Pandas**, a core data manipulation library in Python. It includes practical examples of loading, inspecting, cleaning, transforming, and exporting datasets using real-world techniques.
 
 ---
 
@@ -42,7 +42,7 @@ To explore the code examples and operations, check out the [**Pandas_EDA Noteboo
 
 You can also view:
 - [**HTML Export**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/pandas-eda-cleaning.html) – for a rendered view without execution
-- [**Cleaned Excel Dataset**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/cleaned_dataset.xlsx) – the final output after cleaning and transformations
+- [**Excel Dataset**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/cleaned_dataset.xlsx) – the original dataset used in this project.
 
 ---
 
