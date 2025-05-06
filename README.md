@@ -1,8 +1,6 @@
 # 🐍 **Python Data Analysis Projects**
 ## Welcome to my Python Projects Repository — a collection of hands-on projects focused on data analysis, visualization, and web scraping using essential Python libraries.
 
-![ChatGPT Image Apr 24, 2025, 04_45_37 PM](https://github.com/user-attachments/assets/9989b8b4-d07a-4858-ba86-c5d440db5033)
-
 ## 🧰 **Libraries Used**
 ### 🔢 **NumPy** – for numerical computations and array operations
 
