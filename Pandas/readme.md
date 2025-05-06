@@ -1,8 +1,7 @@
-# 🐼 Pandas Data Analysis & Cleaning Notebook
+# 🐼 **Pandas Data Analysis & Cleaning Notebook**
+### This notebook showcases my understanding of **Pandas**, a core data manipulation library in Python. It includes examples of loading, inspecting, cleaning, transforming, and exporting datasets using practical, real-world techniques.
 
-This notebook showcases my understanding of **Pandas**, a core data manipulation library in Python. It includes examples of loading, inspecting, cleaning, transforming, and exporting datasets using practical, real-world techniques.
-
-## 📂 Contents
+## 📂**Contents**
 - What is a DataFrame?
 - Pandas Series and DataFrames
 - Loading data
@@ -15,10 +14,7 @@ This notebook showcases my understanding of **Pandas**, a core data manipulation
 - Filtering and sorting data
 - Saving to new files
 
-## 📊 Sample Output
-Screenshots or rendered outputs can be included here if you're sharing visuals.
-
-## 🛠️ Technologies
+## 🛠️ **Technologies**
 - Python 3.x
 - Pandas
 - Jupyter Notebook
