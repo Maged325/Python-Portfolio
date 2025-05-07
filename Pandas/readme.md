@@ -45,9 +45,8 @@ You can also view:
 - [**Excel Dataset**](https://github.com/Maged325/Python-Portfolio/blob/main/Pandas/Customer%20Call%20List.csv) – the original dataset used in this project.
 
 ---
-### ⚠️ **Note**: The dataset used in this project is not fully cleaned. The focus of this notebook is to demonstrate data analysis techniques using Pandas rather than complete data 
-
-preprocessing.
+> ### ⚠️ **Important Note:**  
+> The dataset in this project is not fully cleaned. The purpose of this notebook is to demonstrate data analysis skills using Pandas—not to perform a full data cleaning workflow.
 
 ## 📬 Contact
 For collaborations or questions, feel free to reach out!
