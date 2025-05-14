@@ -24,10 +24,10 @@ pip install pandas AutoClean
 ## 📂 **Project Structure**
 
 banking-data-cleaning/
-├── auto_clean_data_exploration.ipynb  # Jupyter notebook for cleaning and analysis
-├── auto_clean_data_exploration.html   # Exported HTML version of the notebook
-├── Banking_Analytics_Dataset.csv      # Raw banking dataset (sample data)
-├── README.md                          # Project documentation
+─ auto_clean_data_exploration.ipynb  # Jupyter notebook for cleaning and analysis
+─ auto_clean_data_exploration.html   # Exported HTML version of the notebook
+─ Banking_Analytics_Dataset.csv      # Raw banking dataset (sample data)
+─ README.md                          # Project documentation
 
 ## 🧑‍💻 **How to Use**
 
