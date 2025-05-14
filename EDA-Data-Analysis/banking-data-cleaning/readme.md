@@ -4,9 +4,9 @@ This project provides a simple tool for data analysts to quickly explore and cle
 
 ## 🚀 **Features**
 
-- Automatically removes duplicates, fills missing values, standardizes columns, and more
-- Summarizes key information about your dataset before and after cleaning
-- Includes sample data and explanations for a beginner-friendly exploration
+- Automatically removes duplicates, handles missing values, and detects outliers
+- Standardizes column formats and cleans inconsistent entries
+- Provides a summary comparison of the dataset before and after cleaning
 
 ## 📦**Requirements**
 
