@@ -47,3 +47,7 @@ Follow these steps to run the notebook and clean your dataset using AutoClean:
 This project is open-source and free to use. Feel free to modify or extend it for your own data analysis needs.
 
 ---
+## 🤝 **Connect with Me**
+
+🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
+---
