@@ -50,4 +50,4 @@ This project is open-source and free to use. Feel free to modify or extend it fo
 ## 🤝 **Connect with Me**
 
 🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
----
+
