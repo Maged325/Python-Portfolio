@@ -48,5 +48,6 @@ You can also view:
 > ### ⚠️ **Important Note:**  
 > The dataset in this project is not fully cleaned. The purpose of this notebook is to demonstrate data analysis skills using Pandas—not to perform a full data cleaning workflow.
 
-## 📬 Contact
-For collaborations or questions, feel free to reach out!
+## 🤝 **Connect with Me**
+
+🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
