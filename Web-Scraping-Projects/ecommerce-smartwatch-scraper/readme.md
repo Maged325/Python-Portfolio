@@ -1,11 +1,11 @@
 
-# 🛒 E-commerce Smartwatch Scraper - Egypt 🇪🇬
+# 🛒 **E-commerce Smartwatch Scraper - Egypt 🇪🇬**
 
 This project scrapes smartwatch product data from **Jumia Egypt** and **Noon Egypt** using `requests + BeautifulSoup` and `Selenium`, respectively. It collects data such as product name, price, rating, discount, and link—then exports it to a CSV file.
 
 ---
 
-## 📌 Features
+## 📌 **Features**
 
 - Extracts product name, price, rating, discount, and product link.
 - Scrapes from:
@@ -17,7 +17,7 @@ This project scrapes smartwatch product data from **Jumia Egypt** and **Noon Egy
 
 ---
 
-## 🧰 Technologies Used
+## 🔨 **Built With**
 
 - `Python`
 - `BeautifulSoup`
@@ -28,9 +28,9 @@ This project scrapes smartwatch product data from **Jumia Egypt** and **Noon Egy
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️ **Project Structure**
 
-📁 e-commerce-smartwatch-scraper
+📁 ecommerce-smartwatch-scraper
 
 ├── 📄 jumia_scraper.ipynb
 
@@ -42,6 +42,6 @@ This project scrapes smartwatch product data from **Jumia Egypt** and **Noon Egy
 
 └── 📄 README.md
 
-## 📬 Contact
+## 📬 **Contact**
 
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mfouadmohamed325/)
+💼 LinkedIn: [Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
