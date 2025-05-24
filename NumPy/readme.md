@@ -28,3 +28,6 @@
 
 - You can also view the **[HTML (Notebook Export)](https://github.com/Maged325/Python-Portfolio/blob/main/NumPy/NumPy-Mini-Projects.html)** version for a clean, interactive look without running the code.
 
+## 🤝 **Connect with Me**
+
+🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
