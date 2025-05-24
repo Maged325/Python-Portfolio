@@ -38,4 +38,6 @@ This notebook generates insightful visualizations, including bar plots, heatmaps
 * Explores geographical and temporal crime distribution
 * Highlights data quality issues and suggestions for cleaning
 
+## 🤝 **Connect with Me**
 
+🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
