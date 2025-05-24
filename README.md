@@ -1,6 +1,6 @@
 # 🐍 **Python Data Analysis Projects**
 ## Welcome to my Python Projects Repository — a collection of hands-on projects focused on data analysis, visualization, and web scraping using essential Python libraries.
-
+---
 ## 🧰 **Libraries Used**
 ### 🔢 **NumPy** – for numerical computations and array operations
 
@@ -12,6 +12,8 @@
 
 ### 🌐 **BeautifulSoup** – for web scraping and extracting structured data from HTML/XML
 
+### 🕷️ **Selenium** – for automating web browser interactions and dynamic scraping
+---
 ## 🎯 **Goal of This Repository**
 ### This repo is designed to build and sharpen practical data analysis skills by working with real data and applying core Python libraries.
 
@@ -30,6 +32,10 @@
 ### View my [Seaborn Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Seaborn).
 ### View my [NumPy Projects](https://github.com/Maged325/Python-Portfolio/tree/main/NumPy).
 ### View my [Python Basics Practice](https://github.com/Maged325/Python-Portfolio/tree/main/Python-Basics).
+### View my [Pandas Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Pandas)
+### View my [Data Analysis Projects](https://github.com/Maged325/Python-Portfolio/tree/main/EDA-Data-Analysis)
+### View my [Web Scraping Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Web-Scraping-Projects)
 
 ## 🤝 **Connect with Me**
 🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
+---
