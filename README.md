@@ -30,3 +30,6 @@
 ### View my [Seaborn Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Seaborn).
 ### View my [NumPy Projects](https://github.com/Maged325/Python-Portfolio/tree/main/NumPy).
 ### View my [Python Basics Practice](https://github.com/Maged325/Python-Portfolio/tree/main/Python-Basics).
+
+## 🤝 **Connect with Me**
+🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
