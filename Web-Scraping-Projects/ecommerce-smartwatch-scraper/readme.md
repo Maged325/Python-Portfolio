@@ -42,6 +42,4 @@ This project scrapes smartwatch product data from **Jumia Egypt** and **Noon Egy
 
 └── 📄 README.md
 
-## 📬 **Contact**
 
-💼 LinkedIn: [Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
