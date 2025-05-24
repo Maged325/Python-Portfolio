@@ -37,3 +37,6 @@
 9. ✅ Conclusion  
 
 ---
+## 🤝 **Connect with Me**
+
+🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
