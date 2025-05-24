@@ -33,7 +33,7 @@
 ### View my [NumPy Projects](https://github.com/Maged325/Python-Portfolio/tree/main/NumPy).
 ### View my [Python Basics Practice](https://github.com/Maged325/Python-Portfolio/tree/main/Python-Basics).
 ### View my [Pandas Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Pandas)
-### View my [Data Analysis Projects](https://github.com/Maged325/Python-Portfolio/tree/main/EDA-Data-Analysis)
+### View my [Data Analysis Projects with Python](https://github.com/Maged325/Python-Portfolio/tree/main/EDA-Data-Analysis)
 ### View my [Web Scraping Projects](https://github.com/Maged325/Python-Portfolio/tree/main/Web-Scraping-Projects)
 
 ## 🤝 **Connect with Me**
