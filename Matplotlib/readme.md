@@ -42,3 +42,7 @@ Clone the repo and open the Jupyter Notebook to explore the plots:
 To explore the code and visualizations, check out the [**Matplotlib_Visualizations.ipynb**](https://github.com/Maged325/Python-Portfolio/blob/main/Matplotlib/Matplotlib_Visualizations.ipynb) file included in this repository.
 
 You can also view the [**HTML (Notebook Export**)](https://github.com/Maged325/Python-Portfolio/blob/main/Matplotlib/Matplotlib_Visualizations.html) version for a clean, interactive look without running the code.
+
+## 🤝 **Connect with Me**
+
+🔗 [LinkedIn – Maged Fouad](https://www.linkedin.com/in/mfouadmohamed325/)
