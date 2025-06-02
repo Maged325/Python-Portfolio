@@ -46,6 +46,7 @@ Each sub-project showcases scraping from a specific website with its own script 
 ├── jumia_smart_watches.csv
 ├── noon_smart_watches.csv
 ├── requirements.txt
+├── Noon_Sample.png & Jumia_Sample.png 
 └── README.md
 </span></span></code></div></div></pre>
 
